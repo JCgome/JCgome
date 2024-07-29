@@ -6,7 +6,7 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGMyczRkdGFqam96MzMxNms0bjVoOW1wdXRpMTRyMXQyeHI3dzg2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-<h2 align="left">☑️ My day-to-day technology:</h2>
+<h2 align="left">☑️ technologies I use the most:</h2>
 <p align="left">
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
