@@ -1,26 +1,116 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Juan Carlos Gomez, Junior Frontend Developer 🖥️<br>
-  <br>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGMyczRkdGFqam96MzMxNms0bjVoOW1wdXRpMTRyMXQyeHI3dzg2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">☑️ technologies I use the most:</h2>
-<p align="left">
-    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
-   <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
-   <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" alt="angular-material" width="40" height="40"/> </a>
-   <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/> </a>
-   <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-plain.svg" alt="karma" width="40" height="40"/> </a>
-   <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" alt="jasmine" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- </p>
+<div style="border-radius:16px;">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40404080&height=300&section=header&text=JC%20Gomez&fontSize=68&fontColor=F2F2F2&fontAlign=50&fontAlignY=34&desc=FullStack%20Developer&descSize=18&descColor=B0B0B0&descAlign=75&descAlignY=54&animation=fadeIn&v=8" style="border-radius:16px 16px 0 0;" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=E6E6E6&center=true&vCenter=true&width=600&lines=FullStack+Developer;Ubicado+en+Sevilla%2C+España;Creando+soluciones+web+escalables)](https://git.io/typing-svg)
+
+<br/>
+
+</div>
+
+<div align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=420&text=Perfil&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PERFIL" />
+</div>
+
+<br/>
+
+<pre style="background:#0d1117; color:#e6edf3; padding:20px 24px; border-radius:16px; border:1px solid #30363d; display:block; font-family:'Fira Code', monospace; font-size:18px; line-height:1.6; box-shadow: 0 8px 32px rgba(0,0,0,0.45); margin-left:0;">
+<code style="font-family:inherit; font-size:18px;">{
+  "name": "Juan Carlos Gomez",
+  "role": "Frontend Developer",
+  "location": "Sevilla, España",
+  "experience": "3+ años",
+  "philosophy": "Desarrollando aplicaciones de principio a fin",
+  "mainTechs": ["Angular", "Java", "TypeScript", "Spring-Boot"]
+}</code>
+</pre>
+
+<br/><br/>
+
+<div align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=420&text=Stack%20%7C%20Herramientas&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="STACK" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=FEFEFA" alt="Angular" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=FEFEFA" alt="TypeScript" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=FEFEFA" alt="CSS3" />
+<img src="https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=FEFEFA" alt="Sass" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=FEFEFA" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=FEFEFA" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F&labelColor=FEFEFA" alt="Spring Security" />
+<img src="https://img.shields.io/badge/Hibernate-0d1117?style=for-the-badge&logo=hibernate&logoColor=BCAE79&labelColor=FEFEFA" alt="Hibernate" />
+<img src="https://img.shields.io/badge/Maven-0d1117?style=for-the-badge&logo=apachemaven&logoColor=C71A36&labelColor=FEFEFA" alt="Maven" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=FEFEFA" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=FEFEFA" alt="MySQL" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=FEFEFA" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=FEFEFA" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=FEFEFA" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=FEFEFA" alt="Postman" />
+	
+<br/>
+
+<br/><br/>
+
+<!--
+<div align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=420&text=Proyectos%20destacados&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="PROYECTOS DESTACADOS" />
+</div>
+
+ <table width="100%" cellpadding="8" cellspacing="8" border="0" frame="void" rules="none">
+  <tr>
+    <td align="center" valign="top" width="25%" border="0">
+      <a href="https://www.loppezinmobiliaria.com/"><img src="./images/projects/lopez-logo.webp" alt="Logo de Lopez Propiedades" width="100%" /></a><br/>
+      <font color="#F2F2F2"><strong>Lopez Propiedades</strong><br/><sub>Plataforma web inmobiliaria</sub></font>
+    </td>
+    <td align="center" valign="top" width="25%" border="0">
+      <a href="https://github.com/DamRodriguez/spotify-mobile"><img src="./images/projects/spotify-logo.webp" alt="Logo de Spotify Mobile" width="100%" /></a><br/>
+      <font color="#F2F2F2"><strong>Spotify Mobile</strong><br/><sub>Clón móvil de Spotify</sub></font>
+    </td>
+    <td align="center" valign="top" width="25%" border="0">
+      <a href="https://alfombrastauro.com/"><img src="./images/projects/tauro-logo.webp" alt="Logo de Alfombras Tauro" width="100%" /></a><br/>
+      <font color="#F2F2F2"><strong>Alfombras Tauro</strong><br/><sub>Plataforma web corporativa</sub></font>
+    </td>
+    <td align="center" valign="top" width="25%" border="0">
+      <a href="https://vanicracia.com/"><img src="./images/projects/vanicracia-logo.webp" alt="Logo de Vanicracia" width="100%" /></a><br/>
+      <font color="#F2F2F2"><strong>Vanicracia</strong><br/><sub>E-commerce de astrología</sub></font>
+    </td>
+  </tr>
+</table> -->
+
+<div align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="GITHUB" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/DamRodriguez/DamRodriguez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="border-radius:16px;" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=transparent&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
+</div>
+
+<br/><br/>
+
+<div align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=300&text=Conectemos&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="CONECTEMOS" />
+</div>
+
+<br/>
+
 
