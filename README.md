@@ -56,7 +56,6 @@
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=FEFEFA" alt="MySQL" />
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=FEFEFA" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=FEFEFA" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=FEFEFA" alt="GitHub" />
 <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=FEFEFA" alt="Postman" />
 	
 <br/>
@@ -96,13 +95,13 @@
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/DamRodriguez/DamRodriguez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="border-radius:16px;" />
+  <img width="98%" src="https://raw.githubusercontent.com/JCgome/JCgome/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="border-radius:16px;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=transparent&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JCgome&theme=dark&background=transparent&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
 </div>
 
 <br/><br/>
@@ -113,4 +112,13 @@
 
 <br/>
 
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+<a href="https://damrod.dev"><img src="https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/jcgomez-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0F0F0F&v=4" alt="LinkedIn" /></a>
+<a href="mailto:juancarlosgomezlopez14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Email" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40404080&height=200&section=footer&v=5" style="display:block; margin:0; border-radius:0 0 16px 16px;" />
+
+</div>
 
